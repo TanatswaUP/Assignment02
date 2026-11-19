@@ -4,8 +4,7 @@ u22503502_TBMakombe_BRICS
 
 An interactive dashboard comparing BRICS countries using World Bank World Development Indicators (WDI). Built for GMT 320, Assignment 1: Data visualisation and version control.
 
-**Live site:** [your GitHub Pages link]
-
+**Live site:** https://tanatswaup.github.io/Assignment02/
 ## Features
 - Dashboard with a heading, control bar and visualisation area
 - Three charts built with Chart.js: line (trend over time), bar (country ranking) and pie (share of combined value)
@@ -32,5 +31,6 @@ HTML, CSS, JavaScript, [Chart.js](https://www.chartjs.org/), [PapaParse](https:/
 
 ## Version control
 - `main`: the stable, published version
-- `feature/[name]`: [what this branch added]
-- `feature/[name]`: [what this branch added]
+- `feature/styling`: project css
+- `feature/charts`: project js
+- `feature/readme`: readme document
